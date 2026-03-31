@@ -11,19 +11,28 @@
 const projects = [
   // ADD YOUR ENTRY HERE - copy the object below as your template
   {
-    member: "Member",
+    member: "Member-1",
+    project: "AAA-Omega-3.0",
+    description: "The team portfolio site you are looking at right now.",
+    status: "in-progress",
+    github: "#",
+  },{
+    member: "Arm Lead",
+    project: "Git Test commit group.",
+    description: "The AAA Omega 3.0 Project team. Boommm!!!",
+    status: "in-progress",
+    github: "manitthongkaw",
+  },{
+    member: "Member 4",
+    project: "DevTeam Hub",
+    description: "The team portfolio site you are looking at right now.",
+    status: "in-progress",
+    github: "#",
+  },{
+    member: "Aod",
     project: "DevTeam Hub",
     description: "The team portfolio site you are looking at right now.",
     status: "in-progress",
     github: "#",
   },
-
-  {
-    member: "Team Lead",
-    project: "DevTeam Hub",
-    description: "The team portfolio site you are looking at right now.",
-    status: "in-progress",
-    github: "#",
-  },
-
 ];
